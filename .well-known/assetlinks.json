@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "io.github.jordi_hva.twa",
-    "sha256_cert_fingerprints": ["4F:4B:D3:95:21:BF:C1:03:30:7C:24:4A:55:06:42:D8:AA:F8:3A:81:65:B4:BA:FC:FE:FE:C7:59:62:DA:AC:2A"]
+    "sha256_cert_fingerprints": ["EE:36:43:3D:6C:F4:24:82:EF:87:3A:36:EC:A3:FE:6B:2E:8A:7C:38:1D:E1:15:89:6A:D4:EA:D3:C7:83:82:DA"]
   }
 }]
