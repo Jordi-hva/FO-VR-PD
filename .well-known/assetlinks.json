@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.jordi_hva.twa",
+    "sha256_cert_fingerprints": ["4F:4B:D3:95:21:BF:C1:03:30:7C:24:4A:55:06:42:D8:AA:F8:3A:81:65:B4:BA:FC:FE:FE:C7:59:62:DA:AC:2A"]
+  }
+}]
