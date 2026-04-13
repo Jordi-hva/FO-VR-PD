@@ -1,7 +1,7 @@
 {
   "name": "XR Blocks",
   "short_name": "XR",
-  "start_url": "/index.html",
+  "start_url": "https://xrblocks.github.io/",
   "display": "standalone",
   "icons": [
     {
